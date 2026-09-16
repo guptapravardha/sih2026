@@ -1,0 +1,17 @@
+{
+  "name": "GramSaarthi — Rural Business Co-Pilot",
+  "short_name": "GramSaarthi",
+  "description": "AI-powered hyper-local business advisory and financial structuring assistant for rural micro-entrepreneurs.",
+  "start_url": "./index.html#/welcome",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F6F1E7",
+  "theme_color": "#3E6B47",
+  "lang": "hi-IN",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" },
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
